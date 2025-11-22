@@ -1,0 +1,5 @@
+{
+  "name": "ColorMyWorld Generator",
+  "description": "Generate custom, printable coloring books for kids using AI. Simply enter a theme and a name to create a unique PDF coloring book.",
+  "requestFramePermissions": []
+}
